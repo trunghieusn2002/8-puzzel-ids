@@ -1,5 +1,5 @@
 <template>
-  <div class="TreeView" ref="container">
+  <div class="TreeView" id="pdf" ref="container">
     <!-- where stuff is actually drawn -->
     <canvas class="main" ref="canvas"></canvas>
 
